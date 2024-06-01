@@ -1,1 +1,2 @@
-The repository contains solutions to data structure and algorithm problems from LeetCode that I’ve attempted
+The repository contains solutions to data structure and algorithm problems from LeetCode that I’ve attempted </br>
+Check out my LeetCode Profile - <a>https://leetcode.com/u/ninad_ghodinde/</a>
