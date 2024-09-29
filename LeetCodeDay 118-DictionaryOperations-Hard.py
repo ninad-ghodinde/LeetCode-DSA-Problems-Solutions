@@ -40,4 +40,4 @@ obj.inc("hello")
 obj.inc("leet")
 param_3 = obj.getMaxKey()
 param_4 = obj.getMinKey()
-print(param_3,param_4) # None None
+print(param_3,param_4) 
